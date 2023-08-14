@@ -1,1 +1,2 @@
 Remote data content
+local data content
