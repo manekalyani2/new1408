@@ -1,4 +1,0 @@
-Remote data content
-local data content
-short status
-
